@@ -1,21 +1,21 @@
 {
   "apps": {
-    "Tribune_ios":{
+    "m_ios":{
       "Name": "true",
       "Expertise": "Acting",
       "Country_of_birth": "India"
     },
-        "Tribune_android":{
+        "m_android":{
       "Name": "true",
       "Expertise": "Acting",
       "Country_of_birth": "India"
     },
-    "Express_android":{
+    "e_android":{
       "Name": "true",
       "Expertise": "Acting",
       "Country_of_birth": "India"
     },
-        "Express_ios":{
+        "e_ios":{
       "Name": "true",
       "Expertise": "Acting",
       "Country_of_birth": "India"
